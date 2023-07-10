@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2765" started-at="2023-06-26T07:44:55Z" finished-at="2023-06-26T07:44:58Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2765" started-at="2023-06-26T07:44:55Z" finished-at="2023-06-26T07:44:58Z">
+      <class name="jsonandxmlschemavalidator.XmlSchemaValidation">
+        <test-method status="PASS" signature="xmlSchemavalidation()[pri:0, instance:jsonandxmlschemavalidator.XmlSchemaValidation@1b0375b3]" name="xmlSchemavalidation" duration-ms="2746" started-at="2023-06-26T13:14:55Z" finished-at="2023-06-26T13:14:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- xmlSchemavalidation -->
+      </class> <!-- jsonandxmlschemavalidator.XmlSchemaValidation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
