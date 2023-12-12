@@ -32,7 +32,7 @@ public class FileUploadAndDownload {
 	}
 	
 
-	//@Test
+	@Test
 	void multipleFilesUpload()
 	{
 		File myfile1=new File("C:\\AutomationPractice\\Test1.txt");
